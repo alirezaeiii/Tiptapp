@@ -75,8 +75,6 @@ coil-mp = { module = "io.coil-kt.coil3:coil", version.ref = "coil" }
 
 url-encoder = { module = "net.thauvin.erik.urlencoder:urlencoder-lib", version.ref = "url-encoder" }
 
-lib-phone-number = { group = "io.github.luca992.libphonenumber-kotlin", name = "libphonenumber", version.ref = "lib-phone-number" }
-
 firebase-auth = { module = "com.google.firebase:firebase-auth-ktx", version.ref = "firebase-auth" }
 androidx-runtime-android = { group = "androidx.compose.runtime", name = "runtime-android", version.ref = "runtimeAndroid" }
 
